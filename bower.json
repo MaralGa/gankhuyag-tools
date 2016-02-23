@@ -1,0 +1,21 @@
+{
+  "name": "gankhuyag-tools",
+  "authors": [
+    "Maya Gankhuyag"
+  ],
+  "description": "various fron end tools to use with bower",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "gankhuyag-tools"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MaralGa/gankhuyag-tools.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
